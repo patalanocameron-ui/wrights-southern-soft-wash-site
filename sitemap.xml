@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://patalanocameron-ui.github.io/wrights-southern-soft-wash-site/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <image:image><image:loc>https://patalanocameron-ui.github.io/wrights-southern-soft-wash-site/assets/hero.jpg</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://patalanocameron-ui.github.io/wrights-southern-soft-wash-site/assets/video/before-after-reel-poster.jpg</video:thumbnail_loc>
+      <video:title>Wright's Southern Soft Wash before and after jobs</video:title>
+      <video:description>Real before and after soft washing and pressure washing results in Palm Coast, Florida.</video:description>
+      <video:content_loc>https://patalanocameron-ui.github.io/wrights-southern-soft-wash-site/assets/video/before-after-reel.mp4</video:content_loc>
+      <video:duration>37</video:duration>
+    </video:video>
+  </url>
+</urlset>

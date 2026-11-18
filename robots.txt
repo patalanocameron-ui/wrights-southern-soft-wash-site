@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patalanocameron-ui.github.io/wrights-southern-soft-wash-site/sitemap.xml
